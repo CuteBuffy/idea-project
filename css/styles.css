@@ -686,6 +686,10 @@
   .footer__info_contact:not(:first-child) {
     padding-left: 10px;
   }
+
+  .page__footer {
+    margin-top: 40px;
+  }
 }
 
 @media (max-width: 640px) {
