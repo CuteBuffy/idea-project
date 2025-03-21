@@ -4,6 +4,15 @@
   min-width: 200px;
 }
 
+.animate_await {
+  opacity: 0;
+  transition: all 1s;
+}
+
+.animated {
+  opacity: 1;
+}
+
 .page__header {
   display: flex;
   flex-direction: column;
